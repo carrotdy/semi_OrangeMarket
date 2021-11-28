@@ -14,5 +14,8 @@
 		> 협업 툴<br>
 		<span>&emsp;slack: 공지,일정공유</span><br>
 		<span>&emsp;oven: 화면설계</span><br>
-		<span>&emsp;erd cloud: DB설계</span><br>
-
+		<span>&emsp;erd cloud: DB설계</span><br><br>
+<details>
+<summary>프로젝트 자세히보기</summary>
+<div markdown="1">
+	
