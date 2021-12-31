@@ -19,7 +19,7 @@
 		&emsp;<spam> - Server : Apache Tomcat v.8.5</span><br>
 		&emsp;<spam> - Language : JAVA, HTML5, CSS3, JavaScript, JQuery, JSP</span><br>
 		&emsp;<spam> - 디자인 툴 : Bootstrap, slick</span><br>
-		&emsp;<spam> - API : Google Analytics API, 다음 주소 API, Google Gmail API, 네이버 지도 API</span><br>
+		&emsp;<spam> - API : Google Analytics API, 다음 주소 API, Google Gmail API, 네이버 지도 API</span><br><br>
 		> 협업 툴<br>
 		<span>&emsp;slack: 공지,일정공유</span><br>
 		<span>&emsp;oven: 화면설계</span><br>
