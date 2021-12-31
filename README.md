@@ -11,6 +11,15 @@
 		<span>&emsp;성승민 : 회원 기능(회원가입/이메일 인증/로그인/아이디 비밀번호 찾기/쪽지 기능), 쪽지기능(알림/삭제/상세보기)</span><br>
 		<span>&emsp;신동훈 : 중고거래게시판(CRUD/검색/상세보기/지역/거래완료), 회원 신고/쪽지 보내기</span><br>
 		<span>&emsp;홍다영 : 자유게시판(CRUD/검색/상세보기/고정공지사항/댓글), 메인 페이지, 서비스소개 페이지</span><br><br>
+		> 개발환경<br>
+		&emsp;<spam> - 운영체제 : Windows os</span>
+		&emsp;<spam> - 개발도구 : Eclipse</span>
+		&emsp;<spam> - 운영체제 : Windows os</span>
+		&emsp;<spam> - DBMS : Oracle SQL Developer</span>
+		&emsp;<spam> - Server : Apache Tomcat v.8.5</span>
+		&emsp;<spam> - Language : JAVA, HTML5, CSS3, JavaScript, JQuery, JSP</span>
+		&emsp;<spam> - 디자인 툴 : Bootstrap, slick</span>
+		&emsp;<spam> - API : Google Analytics API, 다음 주소 API, Google Gmail API, 네이버 지도 API</span>
 		> 협업 툴<br>
 		<span>&emsp;slack: 공지,일정공유</span><br>
 		<span>&emsp;oven: 화면설계</span><br>
