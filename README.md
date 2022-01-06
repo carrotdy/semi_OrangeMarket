@@ -14,7 +14,7 @@
 		> 개발환경<br>
 		&emsp;<spam> 운영체제 : Windows os</span><br>
 		&emsp;<spam> 개발도구 : Eclipse</span><br>
-		&emsp;<spam> DBMS : Oracle SQL Developer</span><br>
+		&emsp;<spam> RDBMS : Oracle SQL Developer</span><br>
 		&emsp;<spam> Server : Apache Tomcat v.8.5</span><br>
 		&emsp;<spam> Language : JAVA, HTML5, CSS3, JavaScript, JQuery, JSP</span><br>
 		&emsp;<spam> 디자인 툴 : Bootstrap, slick</span><br>
